@@ -1,21 +1,16 @@
 # Facebook-Clone
 Facebook clone by Oyelabs lets you build a customizable social networking platform with advanced community features.
- MoonBook – Facebook Clone Script by Oyelabs
-  <meta name="description" content="MoonBook by Oyelabs is a customizable Facebook clone script for launching a scalable social networking platform.">
-</head>
-<body>
-
-  <h1>MOONBOOK – Launch Your Own Facebook-Like Social Networking Platform</h1>
+  <h3>MOONBOOK – Launch Your Own Facebook-Like Social Networking Platform</h3>
 
   <p><strong>MoonBook</strong> by Oyelabs is a powerful <a href="https://oyelabs.com/facebook-clone/" target="_blank">Facebook clone script</a> built for entrepreneurs looking to launch a modern, fully customizable social networking platform. Whether you're targeting a niche community or aiming to rival mainstream platforms, MoonBook gives you the tools to build a feature-rich, scalable, and engaging platform that connects users through profiles, feeds, groups, messaging, and more.</p>
 
-  <p>Developed using robust technologies like <strong>Laravel and Flutter</strong>, MoonBook delivers seamless performance across web and mobile devices. While it replicates the proven success model of <strong>Facebook</strong>, the script allows for extensive customization—from design and branding to functionality and monetization strategies.</p>
+  <p>Developed using robust technologies like Laravel and Flutter, MoonBook delivers seamless performance across web and mobile devices. While it replicates the proven success model of Facebook, the script allows for extensive customization—from design and branding to functionality and monetization strategies.</p>
 
-  <h2>Why Choose MoonBook?</h2>
+ <h3>Why Choose MoonBook?</h3>
 
-  <p>There are many social networking solutions out there, but few offer the versatility, security, and user-centric design that <strong>MoonBook</strong> brings to the table. With real-time features, modular architecture, and continuous updates, it’s not just a clone—it’s your community-building engine. Get in touch to discover how MoonBook can bring your social networking idea to life.</p>
+<p>There are many social networking solutions out there, but few offer the versatility, security, and user-centric design that <strong>MoonBook</strong> brings to the table. With real-time features, modular architecture, and continuous updates, it’s not just a clone—it’s your community-building engine. <a href="mailto:grow@oyelabs.com">Get in touch</a> at to discover how MoonBook can bring your social networking idea to life.</p>
 
-  <h2>Key Features That Set MoonBook Apart</h2>
+  <h3>Key Features That Set MoonBook Apart</h3>
   <ul>
     <li>Fully responsive UI across desktop, tablet, and mobile</li>
     <li>Personalized user feeds and timeline posts</li>
