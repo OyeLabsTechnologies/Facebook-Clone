@@ -1,6 +1,6 @@
 # Facebook-Clone
 Facebook clone by Oyelabs lets you build a customizable social networking platform with advanced community features.
- <title>MoonBook – Facebook Clone Script by Oyelabs</title>
+ MoonBook – Facebook Clone Script by Oyelabs
   <meta name="description" content="MoonBook by Oyelabs is a customizable Facebook clone script for launching a scalable social networking platform.">
 </head>
 <body>
