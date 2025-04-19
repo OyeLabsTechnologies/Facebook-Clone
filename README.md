@@ -29,7 +29,7 @@ Facebook clone by Oyelabs lets you build a customizable social networking platfo
   <p><strong>MoonBook</strong> is more than a social media script — it's a launch-ready solution for visionaries building the next big online community.</p>
 
   <h3>Ready to build your social networking platform?</h3>
-  <p>Contact us at 📩 <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a> or visit 🌐 <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started. Let’s build your community-powered platform together!</p>
+  <p>Contact us at 📩 <a href="mailto:myoyelabs@gmail.com">grow@oyelabs.com</a> or visit 🌐 <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started. Let’s build your community-powered platform together!</p>
 
 </body>
 </html>
