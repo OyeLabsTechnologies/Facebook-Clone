@@ -2,7 +2,7 @@
 Facebook clone by Oyelabs lets you build a customizable social networking platform with advanced community features.
   <h3>MOONBOOK – Launch Your Own Facebook-Like Social Networking Platform</h3>
 
-  <p><strong>MoonBook</strong> by Oyelabs is a powerful <a href="https://oyelabs.com/facebook-clone/" target="_blank">Facebook clone script</a> built for entrepreneurs looking to launch a modern, fully customizable social networking platform. Whether you're targeting a niche community or aiming to rival mainstream platforms, MoonBook gives you the tools to build a feature-rich, scalable, and engaging platform that connects users through profiles, feeds, groups, messaging, and more.</p>
+  <p><strong>MoonBook</strong> by Oyelabs is a powerful <a href="https://oyelabs.com/facebook-clone/?utm_source=Social+&utm_medium=github&utm_campaign=github_listing" target="_blank">Facebook Clone Script</a> built for entrepreneurs looking to launch a modern, fully customizable social networking platform. Whether you're targeting a niche community or aiming to rival mainstream platforms, MoonBook gives you the tools to build a feature-rich, scalable, and engaging platform that connects users through profiles, feeds, groups, messaging, and more.</p>
 
   <p>Developed using robust technologies like Laravel and Flutter, MoonBook delivers seamless performance across web and mobile devices. While it replicates the proven success model of Facebook, the script allows for extensive customization—from design and branding to functionality and monetization strategies.</p>
 
